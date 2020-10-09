@@ -1,0 +1,6 @@
+com
+net
+org
+info
+biz
+mobi
