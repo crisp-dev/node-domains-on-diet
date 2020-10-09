@@ -1,11 +1,11 @@
 {
-  "name": "domains",
-  "version": "1.1.4",
-  "description": "List of domains, include com, org ...",
+  "name": "domains-on-diet",
+  "version": "1.2.0",
+  "description": "List of domains, include com, org ... (on diet)",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/MangroveTech/node-domains.git"
+    "url": "https://github.com/crisp-dev/node-domains-on-diet.git"
   },
   "keywords": [
     "domain",

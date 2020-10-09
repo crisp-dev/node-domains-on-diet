@@ -1,4 +1,4 @@
-## node-domains
+## node-domains-on-diet
 
 List of TLDs, include `com`, `org` ...
 
